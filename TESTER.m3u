@@ -5,10 +5,10 @@ https://raw.githubusercontent.com/DRAG-10/DRAG10/refs/heads/special/DRAG10.m3u
 ############################################################
 #                     ULUSAL KANALLAR                      #
 ############################################################
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="[🇹🇷TR] ULUSAL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tr/trt1.png" group-title="[🇹🇷TR] ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/ATV_logo_2016.png" group-title="[🇹🇷TR] ULUSAL",ATV
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/iptv-org/iptv/master/logos/tr/trt1.png" group-title="[🇹🇷TR] ULUSAL",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Show_TV_logo.png" group-title="[🇹🇷TR] ULUSAL",SHOW TV
