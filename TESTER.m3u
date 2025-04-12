@@ -37,6 +37,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",SHOWMAX TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:-1
 ###########################################################
 #🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵HABER KANALLARI🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵#
 ###########################################################
@@ -56,6 +57,7 @@ https://b.fulltvizle.com/cnn/index.m3u8
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 #EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
+#EXTINF:-1
 #############################################################
 #🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠BELGESEL KANALLAR🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠#
 #############################################################
@@ -65,6 +67,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMax.tr" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1
 #################################################################
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣#
 #################################################################
@@ -97,7 +100,7 @@ https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 #EXTVLCOPT:http-referrer=https://jestyayin934.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://xxx.mevzuhls26.cfd/yayinb5.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] SPOR",beIN SPORTS HABER
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS HABER
 http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
 #EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 1 [HD]
 https://v.arectv29.sbs/static/bm1.m3u8
