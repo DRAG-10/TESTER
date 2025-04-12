@@ -2,10 +2,9 @@
 LİSTE DRAG10 TARAFINDAN YAPILMIŞTIR
 ORTAK SYNDRAXİC
 https://raw.githubusercontent.com/DRAG-10/DRAG10/refs/heads/special/DRAG10.m3u
-
-############################################################
-#                    🔴ULUSAL KANALLAR🔴                   #
-############################################################
+###########################################################
+#🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴ULUSAL KANALLAR🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴#
+###########################################################
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="http://epg.one/img/2598.png" group-title="[🇹🇷TR] ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="" tvg-logo="http://epg.one/img/2600.png" group-title="[🇹🇷TR] ULUSAL",ATV
@@ -38,10 +37,9 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",SHOWMAX TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-
-############################################################
-#                      🔵HABER KANALLARI🔵                 #
-############################################################
+###########################################################
+#🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵HABER KANALLARI🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵#
+###########################################################
 #EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="[🇹🇷TR] HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MF9nTSgaRG_wrDZRlprfmA&e=1743447639
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="Haber Global.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa" group-title="[🇹🇷TR] HABER",HABER GLOBAL
@@ -58,20 +56,18 @@ https://b.fulltvizle.com/cnn/index.m3u8
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 #EXTINF:-1 tvg-name="ÜLKE TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-
-############################################################
-#                  🟠BELGESEL KANALLAR🟠                   #
-############################################################
+#############################################################
+#🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠BELGESEL KANALLAR🟠🟠🟠🟠🟠🟠🟠🟠🟠🟠#
+#############################################################
 #EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT Belgesel.tr" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",TLC
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-id="DMax.tr" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",DMAX
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-############################################################
-#                  🟣BEIN SPORTS KANALLARI🟣               #
-############################################################
+#################################################################
+#🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣#
+#################################################################
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS 1 [HD]
 #EXTVLCOPT:http-origin=https://kisskissplay.cfd
 #EXTVLCOPT:http-referrer=https://kisskissplay.cfd/
@@ -107,10 +103,9 @@ http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
 https://v.arectv29.sbs/static/bm1.m3u8
 #EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 2 [HD]
 https://v.arectv29.sbs/static/bm2.m3u8
-
-############################################################
-#                 🟪BEIN SPORTS VIP KANALLAR🟪             #
-############################################################
+####################################################################
+#🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪BEIN SPORTS VIP KANALLAR🟪🟪🟪🟪🟪🟪🟪🟪🟪🟪#
+####################################################################
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 [VİP]⚡️" tvg-id="" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="[🇹🇷TR] BEIN SPORTS [VİP]",beIN SPORTS 1 [VİP]⚡️
 #EXTVLCOPT:http-referrer=https://jestyayin934.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -135,10 +130,9 @@ https://bbb.mevzuhls30.cfd/yayinb4.m3u8
 #EXTVLCOPT:http-referrer=https://jestyayin934.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bbb.mevzuhls30.cfd/yayinb5.m3u8
-
-############################################################
-#                   🟢SPOR KANALLARI🟢                     #
-############################################################
+##########################################################
+#🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢SPOR KANALLARI🟢🟢🟢🟢🟢🟢🟢🟢🟢🟢#
+##########################################################
 #EXTINF:-1 tvg-name="A SPOR" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] SPOR",A SPOR
 https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1743447774&st=1XY9fO4Cq2HZ825yvaS1Og&sid=7aagqo5bwcb2&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="http://epg.one/img/6525.png" group-title="[🇹🇷TR] SPOR",TRT SPOR
@@ -149,10 +143,9 @@ https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] SPOR",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-############################################################
-#                     🟡ÇOCUK KANALLARI🟡                  #
-############################################################
+###########################################################
+#🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡ÇOCUK KANALLARI🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡#
+###########################################################
 #EXTINF:-1 tvg-name="TRT ÇOCUK" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] ÇOCUK",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] ÇOCUK",TRT DİYANET ÇOCUK
@@ -163,10 +156,9 @@ https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] ÇOCUK",MİNİKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-
-############################################################
-#                   ❗BİLGİ NOTLARI❗                      #
-############################################################
+#########################################################
+#❗❗❗❗❗❗❗❗❗❗BİLGİ NOTLARI❗❗❗❗❗❗❗❗❗❗#
+#########################################################
 #EXTINF:-1 tvg-name="MOR KANALLAR KAPANMAMAK İÇİN MAÇ GÜNÜNE KADAR DOĞRU YAYINI GÖSTERMEZ" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/549/171/png-transparent-computer-icons-alert-icon-red-alert-round-icon-miscellaneous-warning-sign-number.png" group-title="[❗] BİLGİ",MOR KANALLAR KAPANMAMAK İÇİN MAÇ GÜNÜNE KADAR DOĞRU YAYINI GÖSTERMEZ
 https://info
 #EXTINF:-1 tvg-name="AÇILMAYAN-DONAN KANALLAR OLURSA 1DK KANAL İÇERİSİNDE BEKLEYİNİZ" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/549/171/png-transparent-computer-icons-alert-icon-red-alert-round-icon-miscellaneous-warning-sign-number.png" group-title="[❗] BİLGİ",AÇILMAYAN-DONAN KANALLAR OLURSA 1DK KANAL İÇERİSİNDE BEKLEYİNİZ
@@ -177,10 +169,9 @@ https://info
 https://info
 #EXTINF:-1 tvg-id="" tvg-name="DRAG10_TELIF_UYARI" tvg-logo="https://w7.pngwing.com/pngs/549/171/png-transparent-computer-icons-alert-icon-red-alert-round-icon-miscellaneous-warning-sign-number.png" group-title="[❗] BİLGİ",📢 Drag10 Telif Hakkı • Tüm İçerik ve düzenleme hakları DRAG10'e aittir • Kopyalama/dağıtım yasaktır • Üçüncü taraf içeriklerin hakları sahiplerine aittir • Kullanım sorumluluğu kullanıcıya aittir
 https://info
-
-############################################################
-#                     🤝EMEĞİ GEÇENLER🤝                   #
-############################################################
+##########################################################
+#🤝🤝🤝🤝🤝🤝🤝🤝🤝🤝EMEĞİ GEÇENLER🤝🤝🤝🤝🤝🤝🤝🤝🤝🤝#
+##########################################################
 #EXTINF:-1 tvg-name="DRAG10" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/975/385/png-transparent-partnership-business-logo-marketing-business-service-people-logo.png" group-title="[🤝] EMEĞİ GEÇENLER",DRAG10
 https://info
 #EXTINF:-1 tvg-name="SYNDRAXİC" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/975/385/png-transparent-partnership-business-logo-marketing-business-service-people-logo.png" group-title="[🤝] EMEĞİ GEÇENLER",SYNDRAXİC
