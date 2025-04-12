@@ -52,7 +52,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",SHOWMAX TV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:-1🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵HABER KANALLARI🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+#EXTINF:-1 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵HABER KANALLARI🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 #EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="[🇹🇷TR] HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MF9nTSgaRG_wrDZRlprfmA&e=1743447639
 
